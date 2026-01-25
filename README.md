@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Md. Saif-Al Sarker
 ===========================================================================================================================================
 
-Software Engineering student☕ Interested in AI, ML, and App Dev. Still learning. Still debugging. Still pushing commits
+Software Engineering student☕ Interested in AI, ML, and App Dev. Still learning. Still debugging. Still pushing commits.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [Saif's Bio](http://pdflink.to/saifsarker11/)
