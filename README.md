@@ -10,7 +10,7 @@
 - 📍 Based in Dhaka, Bangladesh  
 - 🖥️ Bio: [Saif's Bio](http://pdflink.to/saifsarker11/)  
 - ✉️ Email: msasarker2016@gmail.com  
-- 🧠 Currently learning **OpenCV** & **SwiftUI App Development**
+- 🧠 Currently learning **FastAPI** & **SwiftUI App Development**
 
 ---
 
