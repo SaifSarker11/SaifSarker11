@@ -8,7 +8,7 @@
 
 ## 🌍 About Me
 - 📍 Based in Dhaka, Bangladesh  
-- 🖥️ Bio: [Saif's Bio](https://go.fliplink.me/view/0FB6028F-0131-46A5-94CE-E0024F1EA957)
+- 🖥️ Bio: [Saif's Bio](https://go.fliplink.me/view/B100735D-B3F5-46C6-A03D-37DB4ABAE09E)
 - ✉️ Email: msasarker2016@gmail.com  
 - 🧠 Currently learning **FastAPI** & **SwiftUI App Development**
 
