@@ -1,7 +1,7 @@
 # Hi 👋 I'm Md. Saif-Al Sarker
 
 ### 💻 Software Engineering Student  
-☕ Interested in AI, ML, and App Development  
+☕ Interested in AI, ML, DL, and RL  
 🚀 Still learning. Still debugging. Still pushing commits.
 
 ---
