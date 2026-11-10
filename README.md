@@ -10,7 +10,7 @@
 - 📍 Based in Dhaka, Bangladesh  
 - 🖥️ Bio: [Saif's Bio](https://go.fliplink.me/view/3BC85E47-EB78-4509-9363-D252D3EB4347)
 - ✉️ Email: msasarker2016@gmail.com  
-- 🧠 Currently learning **FastAPI** & **SwiftUI App Development**
+- 🧠 Passionate about **Machine Learning**, **Deep Learning**, **Reinforcement Learning**
 
 ---
 
